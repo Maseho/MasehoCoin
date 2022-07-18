@@ -8,7 +8,6 @@ Thanks for checking out my solution for the project.
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,11 +20,6 @@ Thanks for checking out my solution for the project.
 Users should be able to:
 
 - Add a block to the chain
-
-### Screenshot
-
-![](./screenshot.jpg)
-
 
 ## My process
 
